@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f5bb7f-4571-4ddd-8df9-a76d93490b22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/catalog/static/catalog/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/base_generic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locallibrary/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588060945246</updated>
       <workItem from="1588060978303" duration="599000" />
-      <workItem from="1588080854130" duration="3948000" />
+      <workItem from="1588080854130" duration="5539000" />
     </task>
     <servers />
   </component>
