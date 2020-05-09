@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f5bb7f-4571-4ddd-8df9-a76d93490b22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/book_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/templates/catalog/author_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/templates/catalog/base_generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/templates/catalog/base_generic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locallibrary/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locallibrary/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/locallibrary/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +84,8 @@
       <updated>1588060945246</updated>
       <workItem from="1588060978303" duration="599000" />
       <workItem from="1588080854130" duration="8196000" />
-      <workItem from="1588783789986" duration="4718000" />
+      <workItem from="1588783789986" duration="10046000" />
+      <workItem from="1589052429619" duration="740000" />
     </task>
     <servers />
   </component>

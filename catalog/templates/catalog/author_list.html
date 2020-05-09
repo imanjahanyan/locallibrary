@@ -1,0 +1,11 @@
+{% extends "catalog/base_generic.html" %}
+
+{% block content %}
+    {% for author in  author_list %}
+        <h3>{{ author.last_name }}</h3>
+        <p>Author's First Name: {{ author.first_name }}</p>
+        <p>Date of Birth: {{ author.date_of_birth }}</p>
+        <p>Date of Death: {{ author.date_of_death }}</p>
+        <hr>
+    {% endfor %}
+{% endblock %}
